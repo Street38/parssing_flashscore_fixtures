@@ -1,3 +1,5 @@
 /venv
 link_error.csv
 result.csv
+.idea/
+**/__pycache__
